@@ -1,0 +1,2 @@
+# ScalaInheritance
+継承
